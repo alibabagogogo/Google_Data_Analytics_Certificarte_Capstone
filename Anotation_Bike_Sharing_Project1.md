@@ -1,16 +1,4 @@
----
-layout: "page"
-title: "Google Data Analytics Certificarte Capstone"
-description: "A Bike Share Program"
-date: "2022-12-12"
-img: assets/img/Bike_share.png
-author: "Ali Kaya"
-importance: 1
-category: Data Analysis
-output:
-  md_document:
-    preserve_yaml: true
----
+
 
 ## Scenario
 
